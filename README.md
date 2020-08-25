@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello, I am Kyle McCain 👋
 
 <!--
 **Drbaltar/Drbaltar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Test Vortex 
+
+
+### How to reach me 📫
+- [LinkedIn](https://www.linkedin.com/in/kyle-mccain-a8a40714a/)
+- [Email](chiefmccain85@gmail.com)
+
+### Current college courses I am attending 🌱
+- [CSC 472 - Introduction to Database Systems](http://catalog.uis.edu/coursedescriptions/csc/)
+- [CSC 532 - Introduction to Machine Learning](http://catalog.uis.edu/coursedescriptions/csc/)
