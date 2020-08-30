@@ -13,7 +13,7 @@
 
 
 ### How to reach me 📫
-- [LinkedIn](https://www.linkedin.com/in/kyle-mccain-a8a40714a/)
+- [LinkedIn](https://www.linkedin.com/in/kyle-mccain/)
 - [Email](chiefmccain85@gmail.com)
 
 ### Current college courses I am attending 🌱
